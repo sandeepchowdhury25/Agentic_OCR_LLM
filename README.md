@@ -66,10 +66,8 @@ $env:OLLAMA_TEXT_MODEL="qwen2.5:7b"
 
 The script reads `images/chocolate_cake_recipe.png`, extracts text with the vision model, and prints the final text to the console.
 
-## Save output as Markdown
-You can store the extracted text as Markdown by redirecting stdout:
-```powershell
-.\test_venv\Scripts\python main.py > output.md
-```
+
+## output as Markdown
+<img width="1912" height="962" alt="Image" src="https://github.com/user-attachments/assets/0f51fe46-1e79-4cb7-88ea-8da5caa9c4a5" />
 
 
